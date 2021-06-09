@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @carpedavid
 - 👀 I’m interested in just about everything.
-- 🌱 I’m currently learning about docker.
+- 🌱 I’m currently learning about static site generation and go.
 - 📫 Reach me at [About Dave](https://aboutdave.info)
