@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @carpedavid
 - 👀 I’m interested in just about everything.
 - 🌱 I’m currently learning about rust.
-- 📫 Reach me at [About Dave](https://aboutdave.info)
+- 📫 Reach me at [Seize the Dave](https://carpedavid.com)
